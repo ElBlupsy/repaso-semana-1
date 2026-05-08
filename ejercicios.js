@@ -48,5 +48,4 @@ console.log (edad2 >= 18 || tienepermiso == true);
 let usuario = "admin"
 let password = "1234"
 
-console.log (usuario == "adming" && password == "1234")
-
+console.log (usuario == "admin" && password == "1234")
